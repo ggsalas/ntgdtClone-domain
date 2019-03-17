@@ -1,6 +1,6 @@
 {
-  "name": "dominio",
-  "version": "1.0.0",
+  "name": "ntgdtClone-domain",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,9 @@
     "@s-ui/mono": "1.41.0",
     "@s-ui/test": "2.8.0"
   },
-  "eslintConfig": { "extends": ["./node_modules/@s-ui/lint/eslintrc.js"] }
+  "eslintConfig": {
+    "extends": [
+      "./node_modules/@s-ui/lint/eslintrc.js"
+    ]
+  }
 }
