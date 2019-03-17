@@ -17,5 +17,6 @@
     "@s-ui/lint": "2.21.0",
     "@s-ui/mono": "1.41.0",
     "@s-ui/test": "2.8.0"
-  }
+  },
+  "eslintConfig": { "extends": ["./node_modules/@s-ui/lint/eslintrc.js"] }
 }
