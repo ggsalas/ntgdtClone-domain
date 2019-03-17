@@ -1,0 +1,21 @@
+{
+  "name": "dominio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "co": "sui-mono commit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@s-ui/domain": "1.14.0"
+  },
+  "devDependencies": {
+    "@s-ui/lint": "2.21.0",
+    "@s-ui/mono": "1.41.0",
+    "@s-ui/test": "2.8.0"
+  }
+}
